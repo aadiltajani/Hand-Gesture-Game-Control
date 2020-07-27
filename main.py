@@ -1,4 +1,5 @@
 # Importing the Libraries and Keep the directkeys.py File in your Work(Project) Folder to Import the Keys
+# Created By: Aadil Tajani
 from directkeys import W, A, S, D, PressKey, ReleaseKey
 import cv2
 import math
@@ -15,7 +16,7 @@ for i in range(3):
 while True:
 
     # Getting Frame from Camera
-    ret, img = cap.read()
+    _, img = cap.read()
     img = cv2.flip(img, 1)
 
     # Getting Video Frame Dimensions
@@ -133,7 +134,7 @@ while True:
     k = cv2.waitKey(30) & 0xff
     if k == 27:
         break
-
+# Created By: Aadil Tajani
 # Release All Keys at End
 ReleaseKey(W)
 ReleaseKey(A)
