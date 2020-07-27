@@ -1,4 +1,4 @@
-# GameControl_Using_Hand_Gestures [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aadiltajani.svg?style=social&label=Follow%20%40tajani_aadil)](https://twitter.com/tajani_aadil)
+# Hand-Gesture-Game-Control [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aadiltajani.svg?style=social&label=Follow%20%40tajani_aadil)](https://twitter.com/tajani_aadil)
 
 - An OpenCV project that lets you control games using Hand Gestures and Fingers
 - Leave a ⭐ if you like this project
