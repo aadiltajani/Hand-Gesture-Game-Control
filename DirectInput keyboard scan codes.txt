@@ -1,4 +1,5 @@
 DirectInput keyboard scan codes
+Source & Credits: https://gist.github.com/tracend/912308
 
 DIK_ESCAPE          0x01
 DIK_1               0x02
